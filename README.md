@@ -1,6 +1,18 @@
-Book rental website Using PHP HTML CSS JS and Bootstrap
+# Book Rental Website
+ - Book rental website Using PHP HTML CSS JS and Bootstrap
 
-# Output
+## Admin:
+```
+Email: gauravnegi9634@gmail.com
+Password: gaurav
+```
+
+```
+Email: charu@gmail.com
+Password: charu
+```
+
+## Output:
 
 Homepage: 
 ![image](https://user-images.githubusercontent.com/71167081/160868378-4fb4437f-4e69-4a62-a14c-4f9cae3638e2.png)
