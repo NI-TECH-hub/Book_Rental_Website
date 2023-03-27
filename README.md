@@ -26,7 +26,7 @@ git clone https://github.com/jacktherock/Book_Rental_Website.git
 ```
 mini_project database > Import section > Choose file to import > Import the file
 ```
-- [SQL File](../../../../../C:/xampp/htdocs/php-projects/Book_Rental_Website/Database/mini_project.sql)
+- [SQL File](https://github.com/jacktherock/Book_Rental_Website/blob/main/Database/mini_project.sql)
 
 ## Admin:
 ```
