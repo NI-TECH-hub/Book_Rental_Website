@@ -26,7 +26,8 @@ git clone https://github.com/jacktherock/Book_Rental_Website.git
 ```
 mini_project database > Import section > Choose file to import > Import the file
 ```
-- [SQL File](https://github.com/jacktherock/Book_Rental_Website/blob/main/Database/mini_project.sql)
+<!-- - [SQL File](https://github.com/jacktherock/Book_Rental_Website/blob/main/Database/mini_project.sql) -->
+- [SQL File](https://github.com/jacktherock/Book_Rental_Website/tree/main/Database)
 
 ## Admin:
 ```
