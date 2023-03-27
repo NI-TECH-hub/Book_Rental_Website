@@ -22,12 +22,11 @@ git clone https://github.com/jacktherock/Book_Rental_Website.git
 6) Then at first you have to create database `mini_project` by going to admin panel of MySQL `http://localhost/phpmyadmin/`
 
 
-7) Go to
+7) Then import SQL file in `mini_project` database by going to location
 ```
 mini_project database > Import section > Choose file to import > Import the file
 ```
-<!-- - [SQL File](https://github.com/jacktherock/Book_Rental_Website/blob/main/Database/mini_project.sql) -->
-- [SQL File](https://github.com/jacktherock/Book_Rental_Website/tree/main/Database)
+and add given SQL file --> [SQL File](https://github.com/jacktherock/Book_Rental_Website/tree/main/Database)
 
 ## Admin:
 ```
