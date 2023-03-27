@@ -1,6 +1,45 @@
-Book rental website Using PHP HTML CSS JS and Bootstrap
+# Book Rental Website
+ - Book rental website Using PHP HTML CSS JS and Bootstrap
 
-# Output
+## Steps to run
+1) Download XAMPP server : https://www.apachefriends.org/download.html
+
+2) Create folder `php-projects` on location
+```
+C:\xampp\htdocs\
+```
+
+3) Clone repo on this location `C:\xampp\htdocs\php-projects\`
+
+```
+git clone https://github.com/jacktherock/Book_Rental_Website.git
+```
+
+4) In the XAMPP application start `Apache` & `MySQL` server
+
+5) In the browser go to location `http://localhost/php-projects/Book_Rental_Website/`
+
+6) Then at first you have to create database `mini_project` by going to admin panel of MySQL `http://localhost/phpmyadmin/`
+
+
+7) Then import SQL file in `mini_project` database by going to location
+```
+mini_project database > Import section > Choose file to import > Import the file
+```
+and add given SQL file --> [SQL File](https://github.com/jacktherock/Book_Rental_Website/tree/main/Database)
+
+## Admin:
+```
+Email: admin1234@gmail.com
+Password: gaurav
+```
+
+```
+Email: charu@gmail.com
+Password: charu
+```
+
+## Output:
 
 Homepage: 
 ![image](https://user-images.githubusercontent.com/71167081/160868378-4fb4437f-4e69-4a62-a14c-4f9cae3638e2.png)
