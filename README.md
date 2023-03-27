@@ -3,7 +3,7 @@
 
 ## Admin:
 ```
-Email: gauravnegi9634@gmail.com
+Email: admin1234@gmail.com
 Password: gaurav
 ```
 
